@@ -1,0 +1,8 @@
+{
+    "name":"basic_app",
+    "version":"1.0.0",
+    "author":"sangamdeuja",
+    "dependencies": {
+        "express":"4.18.1"
+    }
+}
